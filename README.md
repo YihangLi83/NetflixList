@@ -1,2 +1,0 @@
-# NetflixList
-Created with CodeSandbox
